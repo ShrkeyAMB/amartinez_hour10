@@ -1,0 +1,18 @@
+Self Critique
+is the game too easy or hard???
+----it was annoying,i dont know where that classifies but it was annoying because the balls went everywhere on my screen way to fast unless stopped.
+What would make the game harder or easier???
+----maybe having some type of obstacle or enviroment obstacle would make the game harder to some extent but not top of the notch hard unless i want to, and reducing ball speed can make things easier
+what would gove it the woowowow fActor???
+----hard to say, its a simple game of just putting balls where they're supposed to be, maybe adding something else as mentioned before like an obstacle can make the game better in terms of improving the "its just a ball game
+what parts of the game are fun?which are tedious?
+----chasing balls is fun i dont know why, being unable to even touch the balls make it annoying and tedious since it means you cant play the game and it depends on luck wether or not the balls come to you or not
+ 
+
+ i added/improved 4 things 
+ ---i expanded the map
+ ---added an major obstacle that being the maze
+ ---tweaked the ball speeds
+ ---removed character bounciness
+
+
